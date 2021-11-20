@@ -1,3 +1,2 @@
-# Acerca de
-Repositorio creado para curso de git
-git = git, flow = flujo
+# Acerca de este repositorio :V
+Repositorio creado para curso de git en el que agregué un copy que está distinto al que agrego blad
